@@ -1,13 +1,15 @@
-# A Complete Intro to React
+# #memtech calendar
 
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplater of the project designed to help you get started.
+Just a react widget that pulls events from meetup. Currently pulls from:
+
+- Memphis Technology User Groups
+
+To add more meetup groups, add them [here](https://github.com/vongrippen/memtech-calendar/blob/master/js/memgo-api.js#L8-L11)
 
 ## Contributing
 
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
+Please contribute, file issues, and make PRs.
 
 ## License
 
 MIT
-
-[gh-page]: http://btholt.github.io/complete-intro-to-react/
